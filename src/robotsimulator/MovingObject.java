@@ -1,9 +1,6 @@
-package robotfield;
+package robotsimulator;
 
-import javax.swing.*;
 import java.awt.*;
-import java.util.ArrayList;
-import java.util.List;
 
 // Klasse, die die Bewegungslogik des Objekts enthält
 class MovingObject implements Runnable {

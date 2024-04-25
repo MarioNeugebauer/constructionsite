@@ -1,4 +1,4 @@
-package robotfield;
+package robotsimulator;
 
 import javax.swing.*;
 import java.awt.*;
